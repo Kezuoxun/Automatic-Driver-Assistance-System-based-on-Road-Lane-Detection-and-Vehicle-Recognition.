@@ -1,0 +1,22 @@
+# # for test1 path: ../data/images/classes.txt  # dataset root dir
+# train: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train\images  # train images (relative to 'path') 118287 images
+# val: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train\images   # val iwmages (relative to 'path') 5000 images
+
+# nc: 1  # number of classes
+# names: [ 'car' ]  # class names  照global順序
+
+
+# for test2  path: ../data/images/classes.txt  # dataset root dir
+train: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train1\images  # train images (relative to 'path') 118287 images
+val: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train1\images   # val iwmages (relative to 'path') 5000 images
+
+nc: 2  # number of classes
+names: [ 'car','track' ]  # class names  照global順序
+
+
+# # for test3  path: ../data/images/classes.txt  # dataset root dir
+# train: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train2\images  # train images (relative to 'path') 118287 images
+# val: C:\Users\202103193\Desktop\python_Floder\yolo-test\dataset_forDIP\train2\images   # val iwmages (relative to 'path') 5000 images
+
+# nc: 1  # number of classes
+# names: [ 'car' ]  # class names  照global順序
