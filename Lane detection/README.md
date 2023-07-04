@@ -1,6 +1,6 @@
 # Lane Detection code
 
-## Detect result image of lane_det_warp.py Algorithm and result image
+## Detect result image of lane_det_warp.py Algorithm and methods
 ![image](https://github.com/Kezuoxun/Automatic-Driver-Assistance-System-based-on-Road-Lane-Detection-and-Vehicle-Recognition./assets/48341867/5479b73b-69f2-46d1-a49f-e14c4e50baf9)
 
 
